@@ -1,0 +1,1 @@
+INSERT INTO persons VALUES ('Helen', 'Kuang', 'helenkg2@uw.edu', 'Female', 'Ms', 20, '11th Avenue', 'Seattle', 'Washington', '98105', '206-000-0000');
